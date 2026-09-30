@@ -1,2 +1,0 @@
-# SQL-LEARING
-0 TO HERO
